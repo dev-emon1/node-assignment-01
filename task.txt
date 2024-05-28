@@ -1,0 +1,5 @@
+Task 01: Assignment should be to create an API that generate random user data. User properties will be ID, Gender, Name, Contact, Address, photoURL.
+That API should be in a JSON file. I have to perform a CRUD operation on the JSON file using Express and File System Module. 
+
+Task 06: PATCH: route have to be "/user/bulk-update" and task will be update multiple users information in the JSON file. Take an array of user ID's and assign it to the body. 
+Bonus Task: validate the body.
